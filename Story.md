@@ -14,3 +14,7 @@ Finally, I came to my senses. It was orientation day. The person I met was my te
 They taught the class with passion, and with all their best. THANK YOU A LOT to them.
 
 And you should know who was the mortal enemy was...
+
+The story is not over, and it will never be...
+
+
