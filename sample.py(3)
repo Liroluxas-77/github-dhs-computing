@@ -1,1 +1,4 @@
-displayshow(Image.BUTTERFLY)
+display.show(Image.BUTTERFLY)
+display.clear()
+sleep(500)
+display.show(Image.BUTTERFLY)
