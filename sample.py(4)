@@ -1,1 +1,3 @@
-displayshow(Image.COW)
+display.show(Image.COW)
+display.clear()
+display.scroll("I like Cheese")
