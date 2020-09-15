@@ -1,1 +1,1 @@
-displayshow(Image.SNAKE)
+display.show(Image.SNAKE)
