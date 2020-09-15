@@ -1,1 +1,3 @@
-displayshow(Image.RABBIT)
+display.show(Image.RABBIT)
+sleep(300)
+display.clear()
