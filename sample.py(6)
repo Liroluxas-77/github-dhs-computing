@@ -1,1 +1,1 @@
-displayshow(Image.TORTOISE)
+display.show(Image.TORTOISE)
