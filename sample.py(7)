@@ -1,1 +1,1 @@
-displayshow(Image.GIRAFE)
+display.show(Image.GIRAFE)
