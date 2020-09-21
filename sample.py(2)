@@ -1,3 +1,4 @@
+from microbit import*
 display.show(Image.RABBIT)
 sleep(300)
 display.clear()
