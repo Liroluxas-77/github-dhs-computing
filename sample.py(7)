@@ -1,1 +1,2 @@
-display.show(Image.GIRAFE)
+from microbit import*
+display.show(Image.GIRAFFE)
